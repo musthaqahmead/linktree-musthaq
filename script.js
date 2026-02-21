@@ -30,7 +30,7 @@ const links = [
   },
   {
     title: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/musthaq-ahmed/', // Note: Kept empty as user provided Instagram twice instead of this. Let's ask! Let's temporarily link back to the portfolio
+    url: 'https://www.linkedin.com/in/musthaq-ahmed-6bb108319', // Note: Kept empty as user provided Instagram twice instead of this. Let's ask! Let's temporarily link back to the portfolio
     icon: 'linkedin'
   },
   {
